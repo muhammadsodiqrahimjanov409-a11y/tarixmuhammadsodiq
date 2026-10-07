@@ -1,0 +1,6 @@
+{
+  "name": "Tarix Ustozim - 5-sinf Tarix Fani",
+  "description": "5-sinf o'quvchilari uchun qiziqarli va interaktiv tarix fani ta'lim loyihasi va test sinovi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
